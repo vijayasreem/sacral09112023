@@ -231,11 +231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.Service\\sacral09112023.Service.csproj",
+      "projectUniqueName": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.Service\\sacral09112023.Service.csproj",
       "projectName": "sacral09112023.Service",
-      "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.Service\\sacral09112023.Service.csproj",
+      "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.Service\\sacral09112023.Service.csproj",
       "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.Service\\obj\\",
+      "outputPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -250,11 +250,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DataAccess\\sacral09112023.DataAccess.csproj": {
-              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DataAccess\\sacral09112023.DataAccess.csproj"
+            "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.DataAccess\\sacral09112023.DataAccess.csproj": {
+              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.DataAccess\\sacral09112023.DataAccess.csproj"
             },
-            "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DTO\\sacral09112023.DTO.csproj": {
-              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DTO\\sacral09112023.DTO.csproj"
+            "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.DTO\\sacral09112023.DTO.csproj": {
+              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.DTO\\sacral09112023.DTO.csproj"
             }
           }
         }

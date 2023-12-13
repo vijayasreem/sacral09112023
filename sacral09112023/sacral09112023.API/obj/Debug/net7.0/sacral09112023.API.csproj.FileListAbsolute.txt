@@ -44,3 +44,6 @@ C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacra
 C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.API\bin\Debug\net7.0\Npgsql.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.API\obj\Debug\net7.0\sacral09112023.API.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.API\obj\Debug\net7.0\refint\sacral09112023.API.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.API\obj\Debug\net7.0\sacral09112023.API.pdb

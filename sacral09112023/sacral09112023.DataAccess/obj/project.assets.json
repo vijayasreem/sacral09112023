@@ -212,11 +212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DataAccess\\sacral09112023.DataAccess.csproj",
+      "projectUniqueName": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.DataAccess\\sacral09112023.DataAccess.csproj",
       "projectName": "sacral09112023.DataAccess",
-      "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DataAccess\\sacral09112023.DataAccess.csproj",
+      "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.DataAccess\\sacral09112023.DataAccess.csproj",
       "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DataAccess\\obj\\",
+      "outputPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -231,8 +231,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DTO\\sacral09112023.DTO.csproj": {
-              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DTO\\sacral09112023.DTO.csproj"
+            "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.DTO\\sacral09112023.DTO.csproj": {
+              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1825\\202312133154\\sacral09112023\\sacral09112023.DTO\\sacral09112023.DTO.csproj"
             }
           }
         }

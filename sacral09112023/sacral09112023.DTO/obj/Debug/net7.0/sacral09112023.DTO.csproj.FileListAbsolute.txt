@@ -10,3 +10,15 @@ C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacra
 C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\refint\sacral09112023.DTO.dll
 C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\sacral09112023.DTO.pdb
 C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\ref\sacral09112023.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\bin\Debug\net7.0\sacral09112023.DTO.deps.json
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\bin\Debug\net7.0\sacral09112023.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\bin\Debug\net7.0\sacral09112023.DTO.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\sacral09112023.DTO.csproj.AssemblyReference.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\sacral09112023.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\sacral09112023.DTO.AssemblyInfoInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\sacral09112023.DTO.AssemblyInfo.cs
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\sacral09112023.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\sacral09112023.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\refint\sacral09112023.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\sacral09112023.DTO.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1825\202312133154\sacral09112023\sacral09112023.DTO\obj\Debug\net7.0\ref\sacral09112023.DTO.dll
