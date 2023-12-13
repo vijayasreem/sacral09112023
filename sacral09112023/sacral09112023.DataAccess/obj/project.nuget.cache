@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2P8koPBJCGR7Rs7pVBPge3Y936wsgTASdTiP7fh1jbCIvLdR+lJ0A91qdfIx3VpYo1q7mijMcsCq/cLg4o+PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1820\\202312131851\\sacral09112023\\sacral09112023.DataAccess\\sacral09112023.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmadipally\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mmadipally\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mmadipally\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

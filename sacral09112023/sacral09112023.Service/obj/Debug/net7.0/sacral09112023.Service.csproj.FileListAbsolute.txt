@@ -1,0 +1,17 @@
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\bin\Debug\net7.0\sacral09112023.Service.deps.json
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\bin\Debug\net7.0\sacral09112023.Service.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\bin\Debug\net7.0\sacral09112023.Service.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\bin\Debug\net7.0\sacral09112023.DataAccess.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\bin\Debug\net7.0\sacral09112023.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\bin\Debug\net7.0\sacral09112023.DTO.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\bin\Debug\net7.0\sacral09112023.DataAccess.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\sacral09112023.Service.csproj.AssemblyReference.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\sacral09112023.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\sacral09112023.Service.AssemblyInfoInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\sacral09112023.Service.AssemblyInfo.cs
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\sacral09112023.Service.csproj.CoreCompileInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\sacral09112023.Service.csproj.CopyComplete
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\sacral09112023.Service.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\refint\sacral09112023.Service.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\sacral09112023.Service.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1820\202312131851\sacral09112023\sacral09112023.Service\obj\Debug\net7.0\ref\sacral09112023.Service.dll
